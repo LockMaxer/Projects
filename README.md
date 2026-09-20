@@ -4,6 +4,7 @@
 ## Bot Whatsapp
 > You need Vs code, Node.js, Terminal and create a Folder [Opcional:( API from Google Studio IA )}
 > If you dont have none of them you can get by;
+
 >Get:[Vs code studio](https://code.visualstudio.com/download?_exp_download=fb315fc982)
 
 >Node = On Terminal; "winget install OpenJS.NodeJS.LTS"
