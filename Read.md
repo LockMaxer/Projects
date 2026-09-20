@@ -1,7 +1,7 @@
 # Projects made by me.
  im Khaos and im learning things in internet like programmer.
 
-## Bot Whatsapp
+## Bot Whatsapp 1#
 > You need Vs code, Node.js, Terminal and create a Folder [Opcional:( API from Google Studio IA )}
 > If you dont have none of them you can get by;
 
@@ -12,5 +12,6 @@
 # Tutorial;
 > You gonna need create a folder, after that you gonna open terminal and do "cd 'Name of your folder' then you need install whatsapp-web.js doing "npm install whatsapp-web.js qrcode-terminal" now you must open Vs code and create a node.js type file and put name like "index.js" and made your code and get your APi to connect, my open source to tutorial:[Example index.js](index.js)
 
+# The Tutorial may work for Windows!
 
  
