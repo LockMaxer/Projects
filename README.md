@@ -6,5 +6,5 @@
 > If you dont have none of them you can get by;
 >Get:[Vs code studio](https://code.visualstudio.com/download?_exp_download=fb315fc982)
 
-> On Terminal; "winget install OpenJS.NodeJS.LTS"
+>Node = On Terminal; "winget install OpenJS.NodeJS.LTS"
  
