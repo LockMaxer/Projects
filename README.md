@@ -10,7 +10,7 @@
 >Node = On Terminal; "winget install OpenJS.NodeJS.LTS"
 
 ## Tutorial;
-> You gonna need create a folder, after that you gonna open terminal and do "cd 'Name of your folder' then you need install whatsapp-web.js doing "npm install whatsapp-web.js qrcode-terminal" now you must open Vs code and create a node.js type file and put name like "index.js" and made your code and get your APi to connect, my open source to tutorial:[Example index.js](index.js)
+> You gonna need create a folder, after that you gonna open terminal and do "cd 'Name of your folder' then you need install whatsapp-web.js doing "npm install whatsapp-web.js qrcode-terminal" now you must open Vs code and create a node.js type file and put name like "index.js" and made your code and get your APi to connect, my open source to tutorial:[Example index.js](index.js) after all you do "node index.js" now you bot must be online and working. ty!
 
 ## The Tutorial may work for Windows!
 
